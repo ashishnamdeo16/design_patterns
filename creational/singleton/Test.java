@@ -1,6 +1,4 @@
-package creational;
-
-import creational.singleton.SingleTonExample;
+package creational.singleton;
 
 class Task extends Thread{
     public int num;
