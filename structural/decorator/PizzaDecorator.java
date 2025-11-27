@@ -1,4 +1,4 @@
-package structural;
+package structural.decorator;
 
 class PizzaDecorator implements Pizza {
     protected Pizza pizza;
